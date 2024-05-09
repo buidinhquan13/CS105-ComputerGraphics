@@ -27,14 +27,31 @@
 # WEB & 3D ROOM SIMULATION Demo
 **Live Demo available [here](https://bdq-ltbl-cs105-project.netlify.app/)**
 
-hoặc
+or
 
-**Clone this repo:**
+*1. Clone this repo:*
 <pre>
 git clone https://github.com/buidinhquan13/CS105-ComputerGraphics.git
 </pre>
 
-https://github.com/buidinhquan13/CS105-ComputerGraphics.git
+
+*2. Install **Node.js**:*
+
+*3. From your terminal, run:*
+<pre>
+# three.js
+npm install --save three
+</pre>
+
+<pre>
+# vite
+npm install --save-dev vite
+</pre>
+
+<pre>
+npx vite
+</pre>
+
 
 
 
