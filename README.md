@@ -7,8 +7,6 @@
 <!-- Title -->
 <h1 align="center"><b>CS105 - ĐỒ HỌA MÁY TÍNH</b></h1>
 
-
-
 ## BẢNG MỤC LỤC
 * [ Giảng viên hướng dẫn](#giangvien)
 * [ Thành viên nhóm](#thanhvien)
@@ -26,8 +24,15 @@
 
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
-# WEB & 3D ROOM SIMULATION
+# WEB & 3D ROOM SIMULATION Demo
 **Live Demo available [here](https://bdq-ltbl-cs105-project.netlify.app/)**
+hoặc
+**Clone this repo:**
+<pre>
+git clone https://github.com/buidinhquan13/CS105-ComputerGraphics.git
+</pre>
+
+https://github.com/buidinhquan13/CS105-ComputerGraphics.git
 
 
 
