@@ -26,7 +26,9 @@
 <a name="doan"></a>
 # WEB & 3D ROOM SIMULATION Demo
 **Live Demo available [here](https://bdq-ltbl-cs105-project.netlify.app/)**
+
 hoặc
+
 **Clone this repo:**
 <pre>
 git clone https://github.com/buidinhquan13/CS105-ComputerGraphics.git
