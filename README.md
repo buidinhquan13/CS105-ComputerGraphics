@@ -26,7 +26,7 @@
 <a name="doan"></a>
 # WEB & 3D ROOM SIMULATION
 ## Requirements
-- Node.js
+- **Node.js**
   
 ## Run project
 
