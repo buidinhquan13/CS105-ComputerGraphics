@@ -27,6 +27,6 @@
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
 # WEB & 3D ROOM SIMULATION
-**Live Demo available [here]([http://cir.micc.unifi.it:5000/](https://bdq-ltbl-cs105-project.netlify.app/))**
+**Live Demo available [here](https://bdq-ltbl-cs105-project.netlify.app/)**
 
 
