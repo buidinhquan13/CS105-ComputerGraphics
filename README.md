@@ -15,7 +15,7 @@
 * [ Đồ án môn học](#doan)
 ## GIẢNG VIÊN HƯỚNG DẪN
 <a name="giangvien"></a>
-**TS. Cap Pham Dinh Thang**
+**TS. Cáp Phạm Đình Thăng**
 
 ## THÀNH VIÊN NHÓM
 <a name="thanhvien"></a>
