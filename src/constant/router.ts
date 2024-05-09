@@ -1,0 +1,7 @@
+export enum PAGE_INDEX {
+  HOME_PAGE,
+  ROOM_KITCHEN,
+  ROOM_BATHROOM,
+  ROOM_BED1,
+  ROOM_BED2,
+}
