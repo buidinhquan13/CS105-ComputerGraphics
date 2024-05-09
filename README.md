@@ -13,7 +13,7 @@
 * [ Đồ án môn học](#doan)
 ## GIẢNG VIÊN HƯỚNG DẪN
 <a name="giangvien"></a>
-**TS. Cáp Phạm Đình Thăng**
+**ThS. Cáp Phạm Đình Thăng**
 
 ## THÀNH VIÊN NHÓM
 <a name="thanhvien"></a>
