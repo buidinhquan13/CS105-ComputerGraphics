@@ -35,7 +35,7 @@ git clone https://github.com/buidinhquan13/CS105-ComputerGraphics.git
 </pre>
 
 
-*2. Install **Node.js**:*
+*2. Install **Node.js***
 
 *3. From your terminal, run:*
 <pre>
