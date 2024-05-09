@@ -24,10 +24,8 @@
 
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
-# WEB & 3D ROOM SIMULATION Demo
-**Live Demo available [here](https://bdq-ltbl-cs105-project.netlify.app/)**
 
-or
+## Run project
 
 *1. Clone this repo:*
 <pre>
@@ -52,6 +50,8 @@ npm install --save-dev vite
 npx vite
 </pre>
 
+# WEB & 3D ROOM SIMULATION Demo
+**Live Demo available [here](https://bdq-ltbl-cs105-project.netlify.app/)**
 
 
 
