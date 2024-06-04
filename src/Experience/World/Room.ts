@@ -62,23 +62,6 @@ export default class Room {
 
 			this.addChildrenShadow(child)
 
-			//only specific for room_01
-			// if (child.name === "Aquarium") {
-			// 	const aquarium = child.children[0] as THREE.Mesh;
-			// 	aquarium.material = new THREE.MeshPhysicalMaterial();
-			// 	const aquariumMaterial =
-			// 		aquarium.material as THREE.MeshPhysicalMaterial;
-			// 	aquariumMaterial.roughness = 0;
-			// 	aquariumMaterial.color.set(0x549dd2);
-			// 	aquariumMaterial.ior = 3;
-			// 	aquariumMaterial.transmission = 1;
-			// 	aquariumMaterial.opacity = 1;
-			// 	aquariumMaterial.depthWrite = false;
-			// 	aquariumMaterial.depthTest = false;
-
-			// 	this.setupAreaLight(child);
-			// }
-
 			child.scale.set(0, 0, 0);
 
 			this.roomChildren[child.name.toLowerCase()] = child;
@@ -97,13 +80,6 @@ export default class Room {
 
 		window.addEventListener("mousemove", this.mouseMoveEvent);
 	}
-
-	// setAnimation() {
-	//     console.log(this.room)
-	//     this.mixer = new THREE.AnimationMixer(this.room);
-	//     this.swim = this.mixer.clipAction(this.room.animations[0])
-	//     this.swim.play()
-	// }
 
 	resize() {}
 
