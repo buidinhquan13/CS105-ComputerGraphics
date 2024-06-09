@@ -22,6 +22,7 @@ export default class Camera extends EventEmitter {
 	constructor() {
 		super();
 
+		
 		this.experience = new Experience();
 		this.sizes = this.experience.sizes;
 		this.scene = this.experience.scene;

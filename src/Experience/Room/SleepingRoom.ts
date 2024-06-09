@@ -288,6 +288,7 @@ export default class SleepingRoom extends EventEmitter {
 			});
 	}
 
+	
 	switchTheme() {
 		const theme = this.experience.theme.theme;
 		if (theme === "dark") {

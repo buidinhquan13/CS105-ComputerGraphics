@@ -1,6 +1,7 @@
 import { EventEmitter } from "events";
 import * as THREE from "three";
 import GSAP from "gsap";
+
 import Experience from "./Experience";
 import convertDivToSpan from "./Utils/convertDivToSpan";
 import Sizes from "./Utils/Sizes";

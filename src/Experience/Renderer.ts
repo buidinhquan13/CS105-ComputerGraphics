@@ -5,6 +5,7 @@ export default class Renderer {
    experience: Experience;
    sizes: any;
    scene: any;
+   
    canvas: any;
    camera: any;
    renderer!: THREE.WebGLRenderer;
